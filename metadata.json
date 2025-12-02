@@ -1,0 +1,5 @@
+{
+  "name": "DocuSort AI",
+  "description": "Intelligent PDF document splitter and classifier powered by Gemini. Upload PDFs, automatically categorize pages (KYC, Photo, Income, etc.), and extract them as new PDFs or Images.",
+  "requestFramePermissions": []
+}
